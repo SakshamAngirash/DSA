@@ -49,7 +49,7 @@ int main(){
          while(j <= i*2 - 1 ){
             cout << '*';
             j  = j + 1;}
-            //a = a + 2;         }
+            //a = a + 2;         
          cout << endl;
          i++;
      }
